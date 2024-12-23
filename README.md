@@ -1,1 +1,1 @@
-More coming soon
+Built entirely in Google Colab
